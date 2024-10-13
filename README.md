@@ -1,5 +1,7 @@
 # My first simple HTML CSS JS project!
 
+This website is to allow passionate and aspiring bakers to learn new baking skills and create tasty foodies through the different classes!!
+
 Main Interface page:
 <br>
 <img width="452" alt="Picture1" src="https://github.com/user-attachments/assets/a2a89bac-d1e7-4c6b-b1aa-0a062b53c320"><br>
